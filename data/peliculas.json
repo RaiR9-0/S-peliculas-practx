@@ -1,0 +1,14 @@
+[
+  { "titulo": "Toy Story", "genero": "Animacion", "anio": 1995, "edad": "2-12" },
+  { "titulo": "Coco", "genero": "Animacion", "anio": 2017, "edad": "2-12" },
+  { "titulo": "Los Increibles", "genero": "Animacion", "anio": 2004, "edad": "2-12" },
+  { "titulo": "Buscando a Nemo", "genero": "Animacion", "anio": 2003, "edad": "2-12" },
+  { "titulo": "Stranger Things", "genero": "Serie", "anio": 2016, "edad": "13-17" },
+  { "titulo": "Spider-Man: Un Nuevo Universo", "genero": "Animacion", "anio": 2018, "edad": "13-17" },
+  { "titulo": "Jumanji", "genero": "Aventura", "anio": 2017, "edad": "13-17" },
+  { "titulo": "Harry Potter y la Piedra Filosofal", "genero": "Fantasia", "anio": 2001, "edad": "13-17" },
+  { "titulo": "El Origen", "genero": "Ciencia Ficcion", "anio": 2010, "edad": "18+" },
+  { "titulo": "Joker", "genero": "Drama", "anio": 2019, "edad": "18+" },
+  { "titulo": "El Padrino", "genero": "Drama", "anio": 1972, "edad": "18+" },
+  { "titulo": "Pulp Fiction", "genero": "Crimen", "anio": 1994, "edad": "18+" }
+]
